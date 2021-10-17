@@ -1,0 +1,10 @@
+name: Nationsatwar
+version: '${project.version}'
+main: nationsatwar.nationsatwar.Nationsatwar
+api-version: 1.16
+authors: [ Eldarion ]
+description: Nations
+commands:
+  faction:
+    description: Opens the faction GUI.
+    usage: /<command>
